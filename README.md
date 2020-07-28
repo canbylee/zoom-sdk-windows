@@ -11,7 +11,6 @@ The PortSIP Softphone for Windows is a free SIP softphone which built base on Po
 - Video conference
 
 
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)   

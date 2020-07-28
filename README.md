@@ -16,7 +16,7 @@ Video conference
 - [Getting Started](#getting-started)   
   - [Prerequisites](#prerequisites)   
 - [Installing](#installing)   
-  - [Structure of portsip-softphone-windows](#structure of portsip-softphone-windows)     
+  - [Structure of portsip-softphone-windows](#structure of portsip-softphone-windows)    
 - [SDK Reference](#sdk-reference)   
 - [Contributing](#contributing)
   

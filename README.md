@@ -16,7 +16,7 @@ Video conference
 - [Getting Started](#getting-started)   
   - [Prerequisites](#prerequisites)   
 - [Installing](#installing)   
-  - [Structure of portsip-softphone-windows](#structure of portsip-softphone-windows)    
+- [Structure](#structure)  
 - [SDK Reference](#sdk-reference)   
 - [Contributing](#contributing)
   
@@ -35,8 +35,7 @@ For more information about IUI tools, please refer to Readme.txt in the [IUI] di
 1. Directly use source code internal projects and related components
 2. Use CMAKE to generate visual studio project
 
-### Structure of portsip-softphone-windows
-
+## Structure
 ```
 ├── [cmake]
 	├── [msvcpch.cmake] <-- cmake pre process
@@ -50,7 +49,6 @@ For more information about IUI tools, please refer to Readme.txt in the [IUI] di
 ├── LICENSE
 └── readme.txt / readme.md
 ```
-
 
 ## SDK Reference
 
